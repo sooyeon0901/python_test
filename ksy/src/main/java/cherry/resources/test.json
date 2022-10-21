@@ -1,0 +1,26 @@
+{
+  "name": "고흐의 별이 빛나는 밤",
+  "symbol": "VAN",
+  "description": "이 캠페인의 설명 입니다.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://www.naver.com",
+  "external_url": "https://www.naver.com",
+  "attributes": [
+    "{trait_type=이름111111, value=111111}",
+    "{trait_type=이름222222, value=222222}"
+  ],
+  "properties": {
+    "files": [
+      "{uri=501.png, type=image/jpg}"
+    ],
+    "category": "image",
+    "creators": [
+      "{address=9nnGAh8QnYLNmCgf8JP6J7VH7mxg3zgh8BoZei1MxEWX, share=100}",
+      "{address=C98EGsTDSPZCaWQRKtsrpRD5WsyWmnu7LbRiWYTDaKiC, share=0}"
+    ]
+  },
+  "collection": {
+    "name": "사회적협동조합",
+    "family": "위마켓웰페어"
+  }
+}
