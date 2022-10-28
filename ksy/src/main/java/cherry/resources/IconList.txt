@@ -1,0 +1,5 @@
+1	ICON-BASE-00001.png	7rbTbQmuWQUPBy32NkyfpTeX8q3tK6BbQyLcpo4HyqPS	1주년	하이파이브	용기
+68	ICON-BASE-00068.png	2cpPMtzWvHzce594SvxzQqUbNKHvfArapDqrj1UtVh4B	케잌	준비!	번개
+135	ICON-BASE-00135.png	C8d7eHK7QJSLuTZBU3ui4dmKBJnAMKNrTkW15QazHnu7	구름	번개마크	지혜
+202	ICON-BASE-00202.png	47kkEgLJY5zrmfs2rAUzjMvJLX5KXjJeTvyUb4cBiWfr	선물	가자!	사랑
+300	ICON-BASE-00300.png	31TeviSoAztQnJeWeBbf4ee6KyZxyJahJNFxCnmA11FQ	화산	플라잉	희망
